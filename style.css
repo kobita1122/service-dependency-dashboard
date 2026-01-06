@@ -1,0 +1,19 @@
+body {
+  background: #020617;
+  color: #e5e7eb;
+  font-family: Arial;
+  padding: 40px;
+}
+
+.map ul {
+  list-style: none;
+  padding-left: 20px;
+}
+
+.map li {
+  margin: 10px 0;
+  padding: 6px 10px;
+  background: #0f172a;
+  border-radius: 6px;
+  display: inline-block;
+}
